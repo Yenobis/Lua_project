@@ -1,2 +1,2 @@
 # Lua_project
-Videojueguito guachi piruachi - Violeta, Eva, Marco y Siboney
+Videojueguito guachi piruachi - Violeta, Eva, Santo y Siboney
